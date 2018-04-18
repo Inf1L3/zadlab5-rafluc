@@ -65,5 +65,5 @@ public class Liczba {
        
        return metsilnia;
     }
-    
+     
 }
