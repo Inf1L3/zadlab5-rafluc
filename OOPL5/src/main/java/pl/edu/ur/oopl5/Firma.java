@@ -27,7 +27,6 @@ public class Firma {
         nazwisko = odczyt.nextLine();
         System.out.println("Stanowisko: ");
         stanowisko = odczyt.nextLine();
-
         spis[nr] = new Pracownik(imie, nazwisko, stanowisko);
         num++;
     }
