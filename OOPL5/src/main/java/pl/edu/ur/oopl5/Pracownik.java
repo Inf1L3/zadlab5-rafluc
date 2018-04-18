@@ -10,8 +10,7 @@ public class Pracownik {
     private final String imie;
     private final String nazwisko;
     private final String stanowisko;
-    
-    
+   
     
   public Pracownik(String imie, String nazwisko, String stanowisko)
   {
