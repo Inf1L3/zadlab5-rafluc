@@ -15,7 +15,6 @@ public class Stos {
             this.stosTab[i] = 0;
         }
         this.i = 0;
-
     }
 
     public double Pop() {
